@@ -5,10 +5,9 @@
 - 👯 Estou procurando trabalhar como Dev tanto em front-end quanto no back-end
 - 📫 E-mail para contato: gabriel.leonbs@gmail.com
 
-<!--
 <div>
-
+    <a href="https://github.com/GLeonBS">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GLeonBS&show_icons=true&theme=radical">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLeonBS&theme=radical&layout=compact">
+    </a>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLeonBS&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLeonBS&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
