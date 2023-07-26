@@ -1,7 +1,7 @@
 ### Oi, eu sou o Gabriel Leon
 
 - 🔭 Estou trabalhando como desenvolvedor trainee na empresa Elotech atualmente
-- 🌱 Estudando Typescript, tanto no front-end quanto no back-end com o NodeJS
+- 🌱 Estudando Java, Angular e Node
 - 📫 E-mail para contato: gabriel.leonbs@gmail.com
 
 <div>
