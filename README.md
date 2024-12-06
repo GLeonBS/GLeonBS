@@ -1,6 +1,5 @@
 ### Oi, eu sou o Gabriel Leon
 
-- 🔭 Estou trabalhando como desenvolvedor júnior na empresa Elotech atualmente
 - 🌱 Estudando Java e Angular
 - 📫 E-mail para contato: gabriel.leonbs@gmail.com
 
