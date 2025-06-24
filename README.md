@@ -6,6 +6,7 @@
 <div>
     <a href="https://github.com/GLeonBS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GLeonBS&show_icons=true&theme=radical">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLeonBS&theme=radical&layout=compact">
     </a>
 </div>
 
